@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-001_TS-001_Login with all valid fields</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7fa6443-6623-4874-a7a9-3c546698f2f5</testCaseGuid>
+</TestCaseEntity>
